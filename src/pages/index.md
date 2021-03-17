@@ -45,8 +45,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
     - image: /img/11174703_10153221119858279_6053816819298750790_o.jpg
-      text: We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
+      text: ¿Hola? We sell green and roasted coffee beans that are sourced directly
+        from independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
